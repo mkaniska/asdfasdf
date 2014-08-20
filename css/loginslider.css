@@ -42,8 +42,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	position:relative;
 	width:960px;
 	overflow:hidden;
-	color:#FFFFFF;
-	background:url("images/tab_l.gif") bottom left no-repeat #313131;
+	color:#000;
+	background:url("../css-images/tab_l.gif") bottom left no-repeat #DFA959;
 	}
 
 /* ----------------------------------------------Content-------------------------------------*/
@@ -150,14 +150,14 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	float:left;
 	text-align:right;
 	padding-left:10px;
-	background:url("images/tab_l.gif") no-repeat bottom left;
+	background:url("../css-images/tab_l.gif") no-repeat bottom left;
 	}
 
 #loginpanel li.right{
 	float:right;
 	text-align:left;
 	padding-right:10px;
-	background:url("images/tab_r.gif") no-repeat bottom right;
+	background:url("../css-images/tab_r.gif") no-repeat bottom right;
 	}
 
 #loginpanel a{

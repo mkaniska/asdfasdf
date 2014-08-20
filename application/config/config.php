@@ -14,7 +14,10 @@
 | path to your installation.
 |
 */
+
 $config['base_url']	= 'http://localhost/asdfasdf/';
+
+define('SITE_TITLE', 'Application Front End');
 
 /*
 |--------------------------------------------------------------------------

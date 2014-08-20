@@ -19,7 +19,10 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('home/home');
+		$tpl_Data['page_name'] = "welcome/home"; 
+		$tpl_Data['menu'] = "home";
+		$tpl_Data['title'] = SITE_TITLE." :: Welcome to CodeIgniter Sample";
+		$this->load->view('layouts/layout', $tpl_Data);
 	}
 }
 
