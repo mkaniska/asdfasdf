@@ -1,27 +1,21 @@
 <div id="sidebar">
 	<ul>
 		<li class="widget">
-			<h3>Recent Activities</h3>
+			<h3>Blog Entries</h3>
 			<ul>
 				<li>
-					<h5><a href="#" title="Post Link">Rajan Muthaia (Tutor)</a></h5>
-					<p> I am 4 years experienced as Physics & taking classes for school students in week end. 
-						Interested can approach me for additional classes & my fees is less compared to other schools.
-					</p>
+					<h5><a href="#" title="Post Link">Lorem ipsum dolor sit amet</a></h5>
+					<p>Consectetur adipiscing elit. Curabitur eget nibh id enim laoreet euismod eget ac orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</p>
 					<a title="Post Link" class="date" href="#">June 18, 2011</a>
 				</li>
 				<li>
-					<h5><a href="#" title="Post Link">Danial H (Tutor)</a></h5>
-					<p>
-						I am a Matchs tutor works in IIT Bangalore. Students who are interested attending classes with me can reach me.
-					</p>
+					<h5><a href="#" title="Post Link">Lorem ipsum dolor sit amet</a></h5>
+					<p>Consectetur adipiscing elit. Curabitur eget nibh id enim laoreet euismod eget ac orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</p>
 					<a title="Post Link" class="date" href="#">June 18, 2011</a>
 				</li>
 				<li class="last">
-					<h5><a href="#" title="Post Link">Ravi R (Student)</a></h5>
-					<p>
-						I am a PU Student & need teacher/tutor to teach Science for me. 
-					</p>
+					<h5><a href="#" title="Post Link">Lorem ipsum dolor sit amet</a></h5>
+					<p>Consectetur adipiscing elit. Curabitur eget nibh id enim laoreet euismod eget ac orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</p>
 					<a title="Post Link" class="date" href="#">June 18, 2011</a>
 				</li>
 			</ul>

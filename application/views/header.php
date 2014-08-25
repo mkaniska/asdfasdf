@@ -90,7 +90,7 @@
     </div>
     <div id="loginpanel">
       <ul>
-        <li class="left">Member &raquo;</li>
+        <li class="left">Click Here &raquo;</li>
         <li class="right" id="toggle"><a id="slideit" href="#slidepanel">Sigup & Login</a><a id="closeit" style="display: none;" href="#slidepanel">Close Panel</a></li>
       </ul>
     </div>
